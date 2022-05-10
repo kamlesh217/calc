@@ -39,6 +39,7 @@ def average():
     ans = a / t
     return [ans,t]
 // main...
+#hello kamlesh
 while True:
     list = []
     print(" My first python program!")
